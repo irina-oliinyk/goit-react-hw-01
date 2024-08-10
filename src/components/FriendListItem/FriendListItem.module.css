@@ -1,0 +1,25 @@
+.FriendListItemConteiner {
+  background-color: #fff;
+  padding: 5px;
+  color: black;
+  font-size: 25px;
+  width: 150px;
+  border: 2px solid aquamarine;
+  border-radius: 5px;
+}
+
+.FriendListItemName {
+  font-weight: bold;
+  margin-top: 7px;
+  margin-bottom: 7px;
+}
+
+.isOnline {
+  color: green;
+  margin-top: 0;
+}
+
+.isOffline {
+  color: red;
+  margin-top: 0;
+}
